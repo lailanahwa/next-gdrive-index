@@ -71,7 +71,7 @@ const config: gIndexConfig = {
      *
      * Default: false
      */
-    allowDownloadProtectedFile: false,
+    allowDownloadProtectedFile: true,
     /**
      * Duration in hours.
      *
